@@ -1,2 +1,3 @@
 # linkedin-scrapper
-This script is meant to scrape url, name and location of linkedin users. This script is capable enough to dodge linkedin security and send more than half million(tested no  can go further more) requests continuosly and scrape the data.
+This project is meant to scrape url, name and location of Linkedin users hence can be very helpful if you are thinking of building a search engine to search people in India. This software will help you make and experiment with big user base of Linkedin from every part of India  which will ultimately lead to high accuracy for search. This software is capable enough to dodge Linkedin security by sending more than half million(tested number can go further more) requests( implemented using tor which changes your IP after every 10 min) also it takes care of uncertain data while scraping by discarding it.
+
